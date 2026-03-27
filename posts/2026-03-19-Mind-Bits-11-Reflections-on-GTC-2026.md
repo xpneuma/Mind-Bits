@@ -2,7 +2,7 @@
 title: "[ Mind Bits # 11 ] Reflections on GTC 2026 🌀⚡"
 date: "2026-03-19"
 original_url: "https://www.linkedin.com/posts/bosunjung_nvidia-gtc-2026-keynote-everything-that-activity-7439548913776300032-BpPn?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAFtVgwBpbsDOQ11rA_H_1ZCcaMXFXeH-Nc"
----
+-
 
 ## NVIDIA GTC 2026 Key Takeaways
 
