@@ -1,5 +1,5 @@
 ---
-title: "[Mind Bits # 8 ] From Junior to Leader: Can AI Reach the Final Stage?"
+title: "[ Mind Bits # 8 ] From Junior to Leader: Can AI Reach the Final Stage?"
 date: "2026-03-12"
 original_url: "https://www.linkedin.com/posts/bosunjung_the-2026-global-intelligence-crisis-citadel-activity-7435583552605364224-H5K6?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAFtVgwBpbsDOQ11rA_H_1ZCcaMXFXeH-Nc"
 ---
