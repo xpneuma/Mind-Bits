@@ -1,3 +1,9 @@
+---
+title: "[ Mind Bits # 15 ] Importance of Collective Intelligence (LLMs Ensemble)"
+date: 2026-03-31
+original_url: "https://www.linkedin.com/posts/bosunjung_harnessing-ensemble-methods-to-boost-llm-share-7444799933091684352-i9yw?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAFtVgwBpbsDOQ11rA_H_1ZCcaMXFXeH-Nc"
+---
+
 [ Mind Bits # 15 ] Importance of Collective Intelligence (LLMs Ensemble) 
 
 As a non-developer, AI has always been a reliable partner. I thought migrating the #OpenClaw channel from #Telegram to #Discord would be easy following the AI’s guidance. Instead, I spent days stuck in a loop because I trusted the AI too much.
