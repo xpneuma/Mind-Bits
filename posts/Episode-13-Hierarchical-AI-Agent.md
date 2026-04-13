@@ -3,11 +3,8 @@
 | **Episode Title** | [ Mind Bits # 13 ] Think about Enterprise AI: Hierarchical AI Agent 🏢🤖 |
 | **Published On** | 2026-03-24 |
 | **LinkedIn Post** | https://www.linkedin.com/posts/bosunjung_what-are-hierarchical-ai-agents-solving-activity-7442292289496002561-PmcB?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAFtVgwBpbsDOQ11rA_H_1ZCcaMXFXeH-Nc |
-| **Shared Resource** | https://www.linkedin.com/redir/redirect?url=https |
+| **Shared Resource** | https://youtu.be/wh489_XT5TI?si=aGsw7CaGiO7rbJic |
 
-2d
-
- Think about Enterprise AI: Hierarchical AI Agent 🏢🤖
 
 In my last post, I shared how Context Drift—the tendency of AI to lose focus over long chats—can dull its edge. For an individual, we can mitigate this by simply "unplugging and restarting" or cross-checking with other AI. However, when we scale this to an enterprise environment, the stakes change dramatically, and the problems become more complicated.
 
@@ -27,6 +24,3 @@ Ultimately, the goal isn't just to adopt the latest technology, but to build a r
 
 #MindBits #AI #Agent #AgenticAI #Governance #Orchestrate #HierarchicalAI #Ecosystem #IBM #HumanStandards
 
-[What Are Hierarchical AI Agents? Solving Context & Task Challenges
-
-youtube.com](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fwww%2Eyoutube%2Ecom%2Fwatch%3Fv%3Dwh489_XT5TI&urlhash=uDQ6&trk=public_post_ingested-content-summary-external-video-content)
