@@ -1,7 +1,7 @@
 | | |
 |---|---|
 | **Episode Title** | In the Era of Transformation 🪞✨ |
-| **Published On** | 2026-03-12 |
+| **Published On** | 2026-03-10 |
 | **LinkedIn Post** | https://www.linkedin.com/posts/bosunjung_michael-jackson-man-in-the-mirror-lyrics-activity-7436942128523608064-IKzY?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAFtVgwBpbsDOQ11rA_H_1ZCcaMXFXeH-Nc |
 | **Shared Resource** | https://youtube.com/watch?v=YUKci-qdK5k&si=mXf0wJEGfcog30kM |
 
