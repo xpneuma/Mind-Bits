@@ -1,7 +1,7 @@
 | | |
 |---|---|
 | **Episode Title** | [ Mind Bits # 15 ] Importance of Collective Intelligence (LLMs Ensemble) |
-| **Published On** | N/A |
+| **Published On** | 2026-03-31 |
 | **LinkedIn Post** | https://www.linkedin.com/posts/bosunjung_harnessing-ensemble-methods-to-boost-llm-share-7444799933091684352-i9yw?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAFtVgwBpbsDOQ11rA_H_1ZCcaMXFXeH-Nc |
 | **Shared Resource** | https://youtu.be/WvcNHvSfh5U?si=vjk3ctSgD7MHAvcZ |
 
