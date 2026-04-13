@@ -1,7 +1,7 @@
 | | |
 |---|---|
 | **Episode Title** | [ Mind Bits # 16 ] The Era of Low-Cost Failure 🚀 |
-| **Published On** | N/A |
+| **Published On** | 2026-04-02 |
 | **LinkedIn Post** | https://www.linkedin.com/posts/bosunjung_mindbits-andrewng-careeradvice-share-7445694935669821441-iy07 |
 | **Shared Resource** | https://lnkd.in/din5fCb7 |
 
