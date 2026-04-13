@@ -1,33 +1,19 @@
 | | |
 |---|---|
-| **Episode Title** | [ Mind Bits # 9 ] In the Era of Transformation 🪞✨ |
+| **Episode Title** | In the Era of Transformation 🪞✨ |
 | **Published On** | 2026-03-12 |
 | **LinkedIn Post** | https://www.linkedin.com/posts/bosunjung_michael-jackson-man-in-the-mirror-lyrics-activity-7436942128523608064-IKzY?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAFtVgwBpbsDOQ11rA_H_1ZCcaMXFXeH-Nc |
-| **Shared Resource** | https://lnkd.in/gTFQXTPv |
+| **Shared Resource** | https://youtube.com/watch?v=YUKci-qdK5k&si=mXf0wJEGfcog30kM |
 
-I read Peter Steinberger’s recent post about joining OpenAI with mixed feelings. (Link: https://lnkd.in/gTFQXTPv)
+On my way home today, this song hit me.
+In an era of chaos and transformation, we often focus solely on the future—striving to change the world into what we believe is "good." But sometimes, we need to take a step back and look at ourselves, our teams, and the people around us.
 
-I fully support his vision. As Peter noted:
-"When I started exploring AI, my goal was to have fun and inspire people. And here we are, the lobster is taking over the world. My next mission is to build an agent that even my mum can use. That’ll need a much broader change, a lot more thought on how to do it safely, and access to the very latest models and research."
+"I'm starting with the man in the mirror
+ I'm asking him to change his ways 
+ And no message could have been any clearer 
+ If you wanna make the world a better place 
+ Take a look at yourself and then make a change"
 
-Research 📊 supports the idea that sponsored projects can effectively overcome technical hurdles. According to a study by NBER, the output of creators in rewarded programs was 54% greater than those without.
-However, there’s a catch: after compensation was delivered, output dropped by 16%. It’s a delicate balance between financial fuel and intrinsic motivation.
-(Source: https://bit.ly/4aRuJd8)
+In the race to build the next great thing, let's not forget to check us—People.
 
-The community is already whispering the term "ClosedClaw."
-If OpenClaw begins to feel like just another proprietary product, the contributors who are currently excited and supportive will inevitably leave to find alternatives.
-
-For this move to be a success🚀, OpenClaw should follow the path of IBM’s Eclipse or Google’s Kubernetes. These projects proved that a corporate-backed foundation can thrive if it remains independent and continues to embrace the open-source mindset:
-🔹 Freedom to innovate
-🔹 Collective contribution 
-🔹 Fostering a global ecosystem
-
-The mission of making an AI agent "for everyone" is too important to be kept behind closed doors. I hope this partnership provides the fuel for innovation without extinguishing the fire of the community.
-
-So, can a project stay truly "Open" once it moves inside the walls of a giant? 🎤
-
-#MindBits #OpenClaw #OpenAI #OpenSource #Innovation #AI #TechCommunity
-
-[Open-Source Software Creators: It’s Not Just About the Money
-
-nber.org](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fwww%2Enber%2Eorg%2Fbe%2F20241%2Fopen-source-software-creators-its-not-just-about-money&urlhash=dfUy&trk=public_post_feed-article-content)
+#MindBits #SelfReflection #ManInTheMirror #HumanConnection
