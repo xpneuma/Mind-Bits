@@ -1,17 +1,10 @@
 | | |
 |---|---|
-| **Episode Title** | [Mind Bits # 10] AI+HW 2035 and beyond |
+| **Episode Title** | AI+HW 2035 and beyond |
 | **Published On** | 2026-03-12 |
 | **LinkedIn Post** | https://www.linkedin.com/posts/bosunjung_aihw-2035-shaping-the-next-decade-activity-7437922808204095489-00wK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAFtVgwBpbsDOQ11rA_H_1ZCcaMXFXeH-Nc |
-| **Shared Resource** | https://lnkd.in/gfH2sYmr |
+| **Shared Resource** | https://arxiv.org/pdf/2603.05225 |
 
-## AI's Growth Stages: From Junior to Leader
-
-This title was summarized by AI from the post below.
-
-2w
-
- AI+HW 2035 and beyond
 
 I recently read the vision paper "AI+HW 2035: Shaping the Next Decade (https://lnkd.in/gfH2sYmr)," and it provided me with deep insights and much to learn. The paper presents a compelling "Multi-layered Vision for AI+HW Co-Design and Co-Evolution" for the next ten years.
 
@@ -48,9 +41,5 @@ What is more, Changing the Vessel Entirely What is truly fascinating—and what 
 While the paper discusses a 10-year horizon, the current velocity of innovation makes this timeline shrink to 8 or even 5 years. Are you ready for the paradigm shift?
 
 #MindBits #AIHW2035 #IntelligencePerJoule #1000x #TrustworthyAI #PhysicalAI #Partnership #Quantum #Space #AI #LiebigsLaw #ParadigmShift #Strategy
-
-[AI+HW 2035: Shaping the Next Decade
-
-arxiv.org](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Farxiv%2Eorg%2Fabs%2F2603%2E05225v1&urlhash=VlnY&trk=public_post_feed-article-content)
 
 ## Explore related topics
