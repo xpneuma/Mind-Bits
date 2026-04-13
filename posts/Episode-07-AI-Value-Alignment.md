@@ -1,19 +1,10 @@
 | | |
 |---|---|
 | **Episode Title** | [Mind Bits # 7] AI Value Alignment: Coexistence ⚖️ |
-| **Published On** | 2026-03-05 |
+| **Published On** | 2026-03-03 |
 | **LinkedIn Post** | https://www.linkedin.com/posts/bosunjung_ai-value-alignment-aligning-ai-with-human-activity-7434504083144704000-smbh?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAFtVgwBpbsDOQ11rA_H_1ZCcaMXFXeH-Nc |
 | **Shared Resource** | https://bit.ly/4aZXYJB |
 
-## AI's Nuclear Escalation: Aligning AI with Human Values
-
-This title was summarized by AI from the post below.
-
-IBM•2K followers
-
-3w
-
-[Mind Bits # 7] AI Value Alignment: Coexistence ⚖️
 
 Recent research on AI's strategic decision-making in war games is, quite frankly, shocking. When faced with escalating conflict, major models—#Gemini, #Claude, and #GPT —almost universally opted for nuclear escalation.
 
@@ -41,9 +32,3 @@ As we enter the era of Agentic AI and its integration into the defense industry,
 “AI can be a powerful tool for advancing societal well-being but only if we remain vigilant and align it with our shared values and principles.” — Benjamin Larsen, Artificial Intelligence and Machine Learning Lead, World Economic Forum (Read more: https://bit.ly/4b6kuAP)
 
 #MindBits #AIAlignment #AIEthics #AgenticAI #TechPhilosophy #HumanValues #ResponsibleAI #StuartRussell #WEF #FutureOfAI #Google #Anthropic #OpenAI #IBM
-
-[AI value alignment: Aligning AI with human values
-
-weforum.org](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fwww%2Eweforum%2Eorg%2Fstories%2F2024%2F10%2Fai-value-alignment-how-we-can-align-artificial-intelligence-with-human-values%2F&urlhash=7ZFv&trk=public_post_feed-article-content)
-
-## Explore related topics
