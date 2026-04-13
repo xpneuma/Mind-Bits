@@ -1,7 +1,7 @@
 | | |
 |---|---|
-| **Episode Title** | Meet Vision: My First Step into AgenticAI |
-| **Published On** | 2026-03-26 |
+| **Episode Title** | [Mind Bits # 1] Meet "Vision": My First Step into hashtag#AgenticAI |
+| **Published On** | 2026-02-10 |
 | **LinkedIn Post** | https://www.linkedin.com/posts/bosunjung_agenticai-gemini-openclaw-activity-7427155176282800128-x1qC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAFtVgwBpbsDOQ11rA_H_1ZCcaMXFXeH-Nc |
 | **Shared Resource** | N/A |
 
