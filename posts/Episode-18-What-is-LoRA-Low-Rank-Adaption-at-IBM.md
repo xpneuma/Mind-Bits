@@ -31,5 +31,6 @@ I’m thrilled to wrap up the week with this new exploration. As more episodes s
 
 P.S. I think it’s finally time to move on from1 my Chromebook and invest in a more powerful PC. My ambition is officially outgrowing my RAM! :-) 😅😂
 
-#MindBits #LoRA #Ollama #FineTuning #OnDeviceAI #Qwen #OpenClaw #AIOrchestration #PersonalAI #Chromebook #TechExploration #SmallModelLargeImpact #Gemini #Claude
 LoRA: https://lnkd.in/gfc9TnVG
+
+#MindBits #LoRA #Ollama #FineTuning #OnDeviceAI #Qwen #OpenClaw #AIOrchestration #PersonalAI #Chromebook #TechExploration #SmallModelLargeImpact #Gemini #Claude
