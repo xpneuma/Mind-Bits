@@ -1,7 +1,7 @@
 | | |
 |---|---|
 | **Episode Title** | From Junior to Leader: Can AI Reach the Final Stage? |
-| **Published On** | 2026-03-10 |
+| **Published On** | 2026-03-05 |
 | **LinkedIn Post** | https://www.linkedin.com/posts/bosunjung_the-2026-global-intelligence-crisis-citadel-activity-7435583552605364224-H5K6?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAFtVgwBpbsDOQ11rA_H_1ZCcaMXFXeH-Nc |
 | **Shared Resource** | https://www.citadelsecurities.com |
 
