@@ -3,7 +3,7 @@
 | **Episode Title** | [ Mind Bits # 16 ] The Era of Low-Cost Failure 🚀 |
 | **Published On** | 2026-04-02 |
 | **LinkedIn Post** | https://www.linkedin.com/posts/bosunjung_mindbits-andrewng-careeradvice-share-7445694935669821441-iy07 |
-| **Shared Resource** | https://lnkd.in/din5fCb7 |
+| **Shared Resource** | https://youtu.be/AuZoDsNmG_s?si=IvH_bEGXbvAABw0U |
 
 
 I recently watched a career advice lecture by Professor Andrew Ng. (Video: https://lnkd.in/din5fCb7) Every word resonated deeply, but three messages in particular took me back to a passionate spring 10 years ago:
