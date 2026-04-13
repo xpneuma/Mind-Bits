@@ -1,9 +1,9 @@
 | | |
 |---|---|
 | **Episode Title** | [Mind Bits # 3] OpenClaw vs. Closed Claw? |
-| **Published On** | 2026-02-26 |
+| **Published On** | 2026-02-17 |
 | **LinkedIn Post** | https://www.linkedin.com/posts/bosunjung_open-source-software-creators-its-not-just-activity-7429030511865491456-1zpN?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAFtVgwBpbsDOQ11rA_H_1ZCcaMXFXeH-Nc |
-| **Shared Resource** | https://lnkd.in/gTFQXTPv |
+| **Shared Resource** | https://www.nber.org/be/20241/open-source-software-creators-its-not-just-about-money?page=1&perPage=50 |
 
 I read Peter Steinberger’s recent post about joining OpenAI with mixed feelings. (Link: https://lnkd.in/gTFQXTPv)
 
@@ -28,6 +28,3 @@ So, can a project stay truly "Open" once it moves inside the walls of a giant? �
 
 #MindBits #OpenClaw #OpenAI #OpenSource #Innovation #AI #TechCommunity
 
-[Open-Source Software Creators: It’s Not Just About the Money
-
-nber.org](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fwww%2Enber%2Eorg%2Fbe%2F20241%2Fopen-source-software-creators-its-not-just-about-money&urlhash=dfUy&trk=public_post_feed-article-content)
