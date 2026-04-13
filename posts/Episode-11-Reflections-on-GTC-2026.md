@@ -1,31 +1,12 @@
 | | |
 |---|---|
-| **Episode Title** | N/A |
-| **Published On** | N/A |
-| **LinkedIn Post** | N/A |
-| **Shared Resource** | https://www.linkedin.com/posts/bosunjung |
+| **Episode Title** | Reflections on GTC 2026 🌀⚡ |
+| **Published On** | 2026-03-16 |
+| **LinkedIn Post** | https://www.linkedin.com/posts/bosunjung_nvidia-gtc-2026-keynote-everything-that-activity-7439548913776300032-BpPn?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAFtVgwBpbsDOQ11rA_H_1ZCcaMXFXeH-Nc |
+| **Shared Resource** | https://youtu.be/X2i_8O75_Os?si=7smphuHq8iNZHE23 |
 
 ---
-title: "[ Mind Bits # 11 ] Reflections on GTC 2026 🌀⚡"
-date: "2026-03-19"
-original_url: "https://www.linkedin.com/posts/bosunjung_nvidia-gtc-2026-keynote-everything-that-activity-7439548913776300032-BpPn?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAFtVgwBpbsDOQ11rA_H_1ZCcaMXFXeH-Nc"
--
 
-## NVIDIA GTC 2026 Key Takeaways
-
-Here are five possible title options, each 50 characters or fewer:
-
-1. NVIDIA GTC 2026 Key Takeaways
-2. GTC 2026: Built for Mankind
-3. NVIDIA Dominates Unstructured Data
-4. Jensen Huang's Vertical Integration Strategy
-5. NVIDIA Enters Agentic AI Era
-
-This title was summarized by AI from the post below.
-
-1w
-
- Reflections on GTC 2026 🌀⚡
 
 Watching the GTC 2026 keynote left me with a complex mix of emotions. Beyond the headlines about faster chips, the event revealed a profound strategy and a vision for the role of technology in our collective future. Here are my key takeaways.
 
@@ -50,9 +31,3 @@ Jensen Huang’s strategy of being "Vertically Integrated but Horizontally Open"
 The launch of NemoClaw represents a strategic move into the enterprise agent market. As companies race to become "agentic" organizations, NVIDIA is positioning itself as the operating system for this new era. This will likely push both open-source and private agent developers to speed up their innovation and commercialization.
 
 #MindBits #GTC2026 #NVIDIA #JensenHuang #BuiltForMankind #AgenticAI #NemoClaw #SovereignAI #IBM #Anthropic #Ecosystem #Developers #Disney #Olaf
-
-[NVIDIA GTC 2026 Keynote: Everything That Happened in 12 Minutes
-
-youtube.com](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fwww%2Eyoutube%2Ecom%2Fwatch%3Fv%3DX2i_8O75_Os&urlhash=HdZ0&trk=public_post_ingested-content-summary-external-video-content)
-
-## Explore related topics
