@@ -1,6 +1,6 @@
 | | |
 |---|---|
-| **Episode Title** | Reflections on GTC 2026 🌀⚡ |
+| **Episode Title** | [Mind Bits # 11] Reflections on GTC 2026 🌀⚡ |
 | **Published On** | 2026-03-16 |
 | **LinkedIn Post** | https://www.linkedin.com/posts/bosunjung_nvidia-gtc-2026-keynote-everything-that-activity-7439548913776300032-BpPn?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAFtVgwBpbsDOQ11rA_H_1ZCcaMXFXeH-Nc |
 | **Shared Resource** | https://youtu.be/X2i_8O75_Os?si=7smphuHq8iNZHE23 |
