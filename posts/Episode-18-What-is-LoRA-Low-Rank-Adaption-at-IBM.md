@@ -1,11 +1,10 @@
 | | |
 |---|---|
-| **Episode Title** | [ Mind Bits # 18 ] What is LoRA (Low-Rank Adaption) at IBM? |
+| **Episode Title** | [ Mind Bits # 18 ] My Persona Model: The Journey to Fine-Tuning LoRA 🛠️✅ |
 | **Published On** | 2026-04-10 |
 | **LinkedIn Post** | https://www.linkedin.com/posts/bosunjung_what-is-lora-low-rank-adaption-ibm-activity-7448497753489326080-KvrQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAFtVgwBpbsDOQ11rA_H_1ZCcaMXFXeH-Nc |
-| **Shared Resource** | https://lnkd.in/gfc9TnVG |
+| **Shared Resource** | https://www.ibm.com/think/topics/lora#1029355617 |
 
-My Persona Model: The Journey to Fine-Tuning LoRA 🛠️✅
 
 It was an exhilarating journey yesterday as I dove deep into building my own "Mind Bits Model." Witnessing initial challenges transform into a symphony of technical triumph, where perseverance became the conductor, was truly rewarding. 🚀
 
