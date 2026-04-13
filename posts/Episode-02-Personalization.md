@@ -1,19 +1,11 @@
 | | |
 |---|---|
-| **Episode Title** | [Mind Bits # 2] Personalization? |
-| **Published On** | 2026-02-26 |
+| **Episode Title** | [Mind Bits # 2] Personalization? Emotional Intelligence! |
+| **Published On** | 2026-02-12 |
 | **LinkedIn Post** | https://www.linkedin.com/posts/bosunjung_gemini-mindbits-ai-activity-7428253109757317120-mpSY?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAFtVgwBpbsDOQ11rA_H_1ZCcaMXFXeH-Nc |
 | **Shared Resource** | N/A |
 
-## AI Personalization: Fine Line Between Helpful and Awkward
 
-This title was summarized by AI from the post below.
-
-1mo
-
-Edited
-
-[Mind Bits # 2] Personalization? Emotional Intelligence!
 
 I recently enabled the "Personal Intelligence" feature on #Gemini. In the consumer business, customization and personalization are the "Holy Grail." But I quickly learned that there is a very fine line between being "helpful" and being "awkward."
 
@@ -33,5 +25,3 @@ To get an unbiased perspective, I asked this incident to a ‘Temporary Chat’ 
 This experience taught me that for AI to truly become a partner, it needs more than just access to our data (Memory). It needs Contextual Nuance (EQ).
 
 #MindBits #AI #Personalization #EmotionalIntelligence #EQ #Gemini #Vision #Context #UserExperience #Samsung #IBM
-
-## Explore related topics
