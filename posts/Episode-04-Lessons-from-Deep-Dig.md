@@ -1,19 +1,11 @@
 | | |
 |---|---|
-| **Episode Title** | [Mind Bits # 4] Lessons from the \ |
-| **Published On** | 2026-02-26 |
+| **Episode Title** | [Mind Bits # 4] Lessons from the "Deep Dig" 🛠️⛏️ |
+| **Published On** | 2026-02-19 |
 | **LinkedIn Post** | https://www.linkedin.com/posts/bosunjung_openclaw-memu-memubot-activity-7430342508573843456-lF78?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAFtVgwBpbsDOQ11rA_H_1ZCcaMXFXeH-Nc |
 | **Shared Resource** | N/A |
 
-## Lessons from the 'Deep Dig': AI, Expertise, and the User
 
-This title was summarized by AI from the post below.
-
-IBM•2K followers
-
-1mo
-
-[Mind Bits # 4] Lessons from the "Deep Dig" 🛠️⛏️
 
 I recently went on a technical marathon that pushed my patience to its limits. Following the news about #OpenClaw, I began searching for alternatives and discovered a project called #memU / #memUBot.
 Since I use a macOS (x86), there was no ready-made installer for me. However, fueled by a surge of confidence after successfully setting up OpenClaw and building a website with Gemini’s help, I thought, "Why not?" and decided to take the leap: a manual setup via GitHub. I felt ready for anything.
