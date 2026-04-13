@@ -1,7 +1,7 @@
 | | |
 |---|---|
 | **Episode Title** | [ Mind Bits # 17 ] A Winning Playbook for AI Agents: Beyond Harness 🛠️🏆 |
-| **Published On** | N/A |
+| **Published On** | 2026-04-07 |
 | **LinkedIn Post** | https://www.linkedin.com/posts/bosunjung_harness-design-for-long-running-application-activity-7447429278377463809-t7Ms?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAFtVgwBpbsDOQ11rA_H_1ZCcaMXFXeH-Nc |
 | **Shared Resource** | https://lnkd.in/gw3ZATun |
 
