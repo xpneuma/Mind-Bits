@@ -1,8 +1,9 @@
----
-title: "[Mind Bits # 6] The 'memU' Challenge: OpenClaw's Smarter Memory"
-date: "2026-02-26"
-original_url: "https://www.linkedin.com/posts/bosunjung_openclaw-memu-memubot-activity-7430342508573843456-lF78?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAFtVgwBpbsDOQ11rA_H_1ZCcaMXFXeH-Nc"
----
+| | |
+|---|---|
+| **Episode Title** | [Mind Bits # 6] The 'memU' Challenge: OpenClaw's Smarter Memory |
+| **Published On** | 2026-02-26 |
+| **LinkedIn Post** | https://www.linkedin.com/posts/bosunjung_openclaw-memu-memubot-activity-7430342508573843456-lF78?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAFtVgwBpbsDOQ11rA_H_1ZCcaMXFXeH-Nc |
+| **Shared Resource** | N/A |
 
 ## Lessons from the 'Deep Dig': AI, Expertise, and the User
 
@@ -47,5 +48,3 @@ I took the advice. I chose to enhance Vision’s memory rather than fighting a l
 AI is a powerful multiplier, but it still needs a "number" (your knowledge) to multiply. If your own knowledge is zero, the result will always be zero. 🚀
 
 #MindBits #OpenClaw #memU #AI #NonDeveloper #ContinuousLearning
-
-## Explore content categories

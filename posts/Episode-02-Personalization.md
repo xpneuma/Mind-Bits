@@ -1,8 +1,9 @@
----
-title: "[Mind Bits # 2] Personalization?"
-date: "2026-02-26"
-original_url: "https://www.linkedin.com/posts/bosunjung_gemini-mindbits-ai-activity-7428253109757317120-mpSY?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAFtVgwBpbsDOQ11rA_H_1ZCcaMXFXeH-Nc"
----
+| | |
+|---|---|
+| **Episode Title** | [Mind Bits # 2] Personalization? |
+| **Published On** | 2026-02-26 |
+| **LinkedIn Post** | https://www.linkedin.com/posts/bosunjung_gemini-mindbits-ai-activity-7428253109757317120-mpSY?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAFtVgwBpbsDOQ11rA_H_1ZCcaMXFXeH-Nc |
+| **Shared Resource** | N/A |
 
 ## AI Personalization: Fine Line Between Helpful and Awkward
 
@@ -34,5 +35,3 @@ This experience taught me that for AI to truly become a partner, it needs more t
 #MindBits #AI #Personalization #EmotionalIntelligence #EQ #Gemini #Vision #Context #UserExperience #Samsung #IBM
 
 ## Explore related topics
-
-## Explore content categories

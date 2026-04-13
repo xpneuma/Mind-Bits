@@ -1,10 +1,9 @@
----
-title: "[Mind Bits #1] Meet Vision: My First Step into AgenticAI"
-date: "2026-03-26"
-original_url: "https://www.linkedin.com/posts/bosunjung_agenticai-gemini-openclaw-activity-7427155176282800128-x1qC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAFtVgwBpbsDOQ11rA_H_1ZCcaMXFXeH-Nc"
----
-
-## Bosun Jung’s Post
+| | |
+|---|---|
+| **Episode Title** | Meet Vision: My First Step into AgenticAI |
+| **Published On** | 2026-03-26 |
+| **LinkedIn Post** | https://www.linkedin.com/posts/bosunjung_agenticai-gemini-openclaw-activity-7427155176282800128-x1qC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAFtVgwBpbsDOQ11rA_H_1ZCcaMXFXeH-Nc |
+| **Shared Resource** | N/A |
 
 I recently spent a weekend feeling like a student again. 🎓
 With #Gemini guidance, I dived into the Linux environment on my Chromebook to install #OpenClaw 🦞. For someone who has spent years using computers primarily for documents and entertainment, this was a refreshing (and slightly nerve-wracking) challenge! 💻🔥
@@ -38,5 +37,3 @@ Since then, "Vision" and I have been checking the weather, summarizing info, and
 I’m looking forward to seeing how far "Vision" can go.
 
 #MindBits #AgenticAI #Gemini #OpenClaw #AIEthics #Innovation #Samsung #Apple #KimChunSu
-
-## Explore content categories

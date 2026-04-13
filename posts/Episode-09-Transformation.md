@@ -1,10 +1,9 @@
----
-title: "[ Mind Bits # 9 ] In the Era of Transformation 🪞✨"
-date: "2026-03-12"
-original_url: "https://www.linkedin.com/posts/bosunjung_michael-jackson-man-in-the-mirror-lyrics-activity-7436942128523608064-IKzY?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAFtVgwBpbsDOQ11rA_H_1ZCcaMXFXeH-Nc"
----
-
-## Bosun Jung’s Post
+| | |
+|---|---|
+| **Episode Title** | [ Mind Bits # 9 ] In the Era of Transformation 🪞✨ |
+| **Published On** | 2026-03-12 |
+| **LinkedIn Post** | https://www.linkedin.com/posts/bosunjung_michael-jackson-man-in-the-mirror-lyrics-activity-7436942128523608064-IKzY?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAFtVgwBpbsDOQ11rA_H_1ZCcaMXFXeH-Nc |
+| **Shared Resource** | https://lnkd.in/gTFQXTPv |
 
 I read Peter Steinberger’s recent post about joining OpenAI with mixed feelings. (Link: https://lnkd.in/gTFQXTPv)
 
@@ -32,5 +31,3 @@ So, can a project stay truly "Open" once it moves inside the walls of a giant? �
 [Open-Source Software Creators: It’s Not Just About the Money
 
 nber.org](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fwww%2Enber%2Eorg%2Fbe%2F20241%2Fopen-source-software-creators-its-not-just-about-money&urlhash=dfUy&trk=public_post_feed-article-content)
-
-## Explore content categories

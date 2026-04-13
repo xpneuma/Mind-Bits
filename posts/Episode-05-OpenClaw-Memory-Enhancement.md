@@ -1,8 +1,9 @@
----
-title: "[Mind Bits # 5] Collaborative Journey to OpenClaw's Smarter Memory"
-date: "2026-02-26"
-original_url: "https://www.linkedin.com/posts/bosunjung_vision-openclaw-memu-activity-7431788990636351489-PUGO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAFtVgwBpbsDOQ11rA_H_1ZCcaMXFXeH-Nc"
----
+| | |
+|---|---|
+| **Episode Title** | [Mind Bits # 5] Collaborative Journey to OpenClaw's Smarter Memory |
+| **Published On** | 2026-02-26 |
+| **LinkedIn Post** | https://www.linkedin.com/posts/bosunjung_vision-openclaw-memu-activity-7431788990636351489-PUGO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAFtVgwBpbsDOQ11rA_H_1ZCcaMXFXeH-Nc |
+| **Shared Resource** | https://www.linkedin.com/redir/redirect?url=http |
 
 ## OpenClaw Memory Enhancement with Custom Skill-Runner
 
@@ -41,5 +42,3 @@ This project taught me immensely:
 • Architectural Nuance: Understanding the distinct roles of the memory-enhancer skill and its execution via a "Skill-runner" subagent clarified how complex background processes are orchestrated within OpenClaw. 💡
 
 #OpenClaw #memU #Agent #MemoryEnhancer #SkillRunner #AI #FromVision
-
-## Explore content categories

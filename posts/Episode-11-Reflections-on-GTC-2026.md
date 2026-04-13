@@ -1,3 +1,10 @@
+| | |
+|---|---|
+| **Episode Title** | N/A |
+| **Published On** | N/A |
+| **LinkedIn Post** | N/A |
+| **Shared Resource** | https://www.linkedin.com/posts/bosunjung |
+
 ---
 title: "[ Mind Bits # 11 ] Reflections on GTC 2026 🌀⚡"
 date: "2026-03-19"
@@ -18,7 +25,7 @@ This title was summarized by AI from the post below.
 
 1w
 
-[ Mind Bits # 11 ] Reflections on GTC 2026 🌀⚡
+ Reflections on GTC 2026 🌀⚡
 
 Watching the GTC 2026 keynote left me with a complex mix of emotions. Beyond the headlines about faster chips, the event revealed a profound strategy and a vision for the role of technology in our collective future. Here are my key takeaways.
 
@@ -49,5 +56,3 @@ The launch of NemoClaw represents a strategic move into the enterprise agent mar
 youtube.com](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fwww%2Eyoutube%2Ecom%2Fwatch%3Fv%3DX2i_8O75_Os&urlhash=HdZ0&trk=public_post_ingested-content-summary-external-video-content)
 
 ## Explore related topics
-
-## Explore content categories

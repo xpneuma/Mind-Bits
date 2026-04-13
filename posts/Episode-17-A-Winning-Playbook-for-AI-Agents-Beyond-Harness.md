@@ -1,10 +1,11 @@
----
-title: "[ Mind Bits # 17 ] A Winning Playbook for AI Agents: Beyond Harness 🛠️🏆"
-date: 2026-04-07
-original_url: "https://www.linkedin.com/posts/bosunjung_harness-design-for-long-running-application-activity-7447429278377463809-t7Ms?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAFtVgwBpbsDOQ11rA_H_1ZCcaMXFXeH-Nc"
----
+| | |
+|---|---|
+| **Episode Title** | [ Mind Bits # 17 ] A Winning Playbook for AI Agents: Beyond Harness 🛠️🏆 |
+| **Published On** | N/A |
+| **LinkedIn Post** | https://www.linkedin.com/posts/bosunjung_harness-design-for-long-running-application-activity-7447429278377463809-t7Ms?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAFtVgwBpbsDOQ11rA_H_1ZCcaMXFXeH-Nc |
+| **Shared Resource** | https://lnkd.in/gw3ZATun |
 
-[ Mind Bits # 17 ] A Winning Playbook for AI Agents: Beyond Harness 🛠️🏆
+A Winning Playbook for AI Agents: Beyond Harness 🛠️🏆
 
 Reflecting on the 'Dream Team' I shared in the previous episode, I realized our success wasn't just about having the right people. It was driven by a precise design for our 12-week journey—a blend of daily/weekly milestones, clear deliverable principles, and situational adaptability.
 

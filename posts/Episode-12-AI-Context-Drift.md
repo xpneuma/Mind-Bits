@@ -1,8 +1,9 @@
----
-title: "[ Mind Bits # 12 ] Why Your AI Gets \"Dull\" Over Time 🧠📉"
-date: "2026-03-19"
-original_url: "https://www.linkedin.com/posts/bosunjung_prompt-engineering-is-dead-activity-7440420671446331393-sH_a?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAFtVgwBpbsDOQ11rA_H_1ZCcaMXFXeH-Nc"
----
+| | |
+|---|---|
+| **Episode Title** | [ Mind Bits # 12 ] Why Your AI Gets \ |
+| **Published On** | 2026-03-19 |
+| **LinkedIn Post** | https://www.linkedin.com/posts/bosunjung_prompt-engineering-is-dead-activity-7440420671446331393-sH_a?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAFtVgwBpbsDOQ11rA_H_1ZCcaMXFXeH-Nc |
+| **Shared Resource** | https://www.linkedin.com/redir/redirect?url=https |
 
 ## AI Context Drift: Why Your AI Gets Dull Over Time
 
@@ -10,7 +11,7 @@ This title was summarized by AI from the post below.
 
 1w
 
-[ Mind Bits # 12 ] Why Your AI Gets "Dull" Over Time 🧠📉
+ Why Your AI Gets "Dull" Over Time 🧠📉
 
 I often pin specific chats to continue long-term discussions on topics like health, taxes, tech trends, and AI learning—including how I manage these [Mind Bits] posts. My expectation was simple: more history and context should lead to better, more personalized answers.
 
@@ -45,5 +46,3 @@ Sometimes, the most sophisticated way to sharpen the blade is to simply start wi
 youtube.com](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fwww%2Eyoutube%2Ecom%2Fwatch%3Fv%3DCs7QiSi8KLY&urlhash=KQXK&trk=public_post_ingested-content-summary-external-video-content)
 
 ## Explore related topics
-
-## Explore content categories

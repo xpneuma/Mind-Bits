@@ -1,8 +1,9 @@
----
-title: "[Mind Bits # 7] AI Value Alignment: Coexistence ⚖️"
-date: "2026-03-05"
-original_url: "https://www.linkedin.com/posts/bosunjung_ai-value-alignment-aligning-ai-with-human-activity-7434504083144704000-smbh?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAFtVgwBpbsDOQ11rA_H_1ZCcaMXFXeH-Nc"
----
+| | |
+|---|---|
+| **Episode Title** | [Mind Bits # 7] AI Value Alignment: Coexistence ⚖️ |
+| **Published On** | 2026-03-05 |
+| **LinkedIn Post** | https://www.linkedin.com/posts/bosunjung_ai-value-alignment-aligning-ai-with-human-activity-7434504083144704000-smbh?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAFtVgwBpbsDOQ11rA_H_1ZCcaMXFXeH-Nc |
+| **Shared Resource** | https://bit.ly/4aZXYJB |
 
 ## AI's Nuclear Escalation: Aligning AI with Human Values
 
@@ -46,5 +47,3 @@ As we enter the era of Agentic AI and its integration into the defense industry,
 weforum.org](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fwww%2Eweforum%2Eorg%2Fstories%2F2024%2F10%2Fai-value-alignment-how-we-can-align-artificial-intelligence-with-human-values%2F&urlhash=7ZFv&trk=public_post_feed-article-content)
 
 ## Explore related topics
-
-## Explore content categories
