@@ -5,7 +5,6 @@
 | **LinkedIn Post** | https://www.linkedin.com/posts/bosunjung_harnessing-ensemble-methods-to-boost-llm-share-7444799933091684352-i9yw?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAFtVgwBpbsDOQ11rA_H_1ZCcaMXFXeH-Nc |
 | **Shared Resource** | https://youtu.be/WvcNHvSfh5U?si=vjk3ctSgD7MHAvcZ |
 
-Importance of Collective Intelligence (LLMs Ensemble) 
 
 As a non-developer, AI has always been a reliable partner. I thought migrating the #OpenClaw channel from #Telegram to #Discord would be easy following the AI’s guidance. Instead, I spent days stuck in a loop because I trusted the AI too much.
 
@@ -25,7 +24,3 @@ The real questions are:
 3) How do we #orchestrate that combination consistently and build a reliable #governance framework?
 
 #MindBits #OpenClaw #Gemini #Claude #Telegram #Discord #CrossModelValidation #LLMsEnsemble #MultimodelOrchestration #Orchestration #Governance
-
-### Related Video
-
-https://youtu.be/WvcNHvSfh5U?si=vjk3ctSgD7MHAvcZ
