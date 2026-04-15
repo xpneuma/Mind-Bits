@@ -1,5 +1,5 @@
 ---
-Episode Title: Co-creating a Reality Check: Kurzweil’s Predictions and the Art of Adaptation
+Episode Title: [ Mind Bits # 19 ] Co-creating a Reality Check: Kurzweil’s Predictions and the Art of Adaptation
 Published On: 2026-04-15
 LinkedIn Post: https://www.linkedin.com/posts/bosunjung_the-reality-check-audit-kurzweil-s-timeline-share-7450232272588533760-yl1j?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAFtVgwBpbsDOQ11rA_H_1ZCcaMXFXeH-Nc
 Shared Resource: https://youtu.be/Y0oNJHeAKyM?si=y0l-ZAHXzr-OFDae
