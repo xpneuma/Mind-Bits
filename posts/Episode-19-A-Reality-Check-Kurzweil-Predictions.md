@@ -1,13 +1,9 @@
----
-Episode Title: [ Mind Bits # 19 ] Co-creating a Reality Check: Kurzweil’s Predictions and the Art of Adaptation
-Published On: 2026-04-15
-LinkedIn Post: https://www.linkedin.com/posts/bosunjung_the-reality-check-audit-kurzweil-s-timeline-share-7450232272588533760-yl1j?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAFtVgwBpbsDOQ11rA_H_1ZCcaMXFXeH-Nc
-Shared Resource: https://youtu.be/Y0oNJHeAKyM?si=y0l-ZAHXzr-OFDae
----
-
-## Bosun Jung’s Post
-
-[ Mind Bits # 19 ] Co-creating a Reality Check: Kurzweil’s Predictions and the Art of Adaptation
+| | |
+|---|---|
+| **Episode Title** | [ Mind Bits # 19 ] Co-creating a Reality Check: Kurzweil’s Predictions and the Art of Adaptation |
+| **Published On** | 2026-04-15 |
+| **LinkedIn Post** | https://www.linkedin.com/posts/bosunjung_the-reality-check-audit-kurzweil-s-timeline-share-7450232272588533760-yl1j?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAFtVgwBpbsDOQ11rA_H_1ZCcaMXFXeH-Nc |
+| **Shared Resource** | https://youtu.be/Y0oNJHeAKyM?si=y0l-ZAHXzr-OFDae |
 
 As I continue my Mind Bits journey, I often find myself driven by a simple yet powerful force: #curiosity. Rather than just using AI as a tool, I’ve been experimenting with building a collaborative environment where my specialized agents work together to explore complex topics.
 
