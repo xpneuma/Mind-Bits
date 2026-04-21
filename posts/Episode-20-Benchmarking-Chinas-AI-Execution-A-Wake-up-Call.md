@@ -5,15 +5,6 @@
 | **LinkedIn Post** | https://www.linkedin.com/posts/bosunjung_the-2026-ai-index-report-stanford-hai-activity-7452108978630733824-UNmJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAFtVgwBpbsDOQ11rA_H_1ZCcaMXFXeH-Nc |
 | **Shared Resource** | https://lnkd.in/gFQCQuV3 |
 
-## Bosun Jung’s Post
-
- IBM•2K followers
-
- 7h
-
- Edited
-
- [ Mind Bits # 20 ] Benchmarking China’s AI Execution: A Wake-up Call
 
 I recently read the Stanford HAI AI Index Report. While it was encouraging to see South Korea ranked 3rd in foundation model capabilities, the intense competition between the U.S. and China left me with a sense of urgency. Today, I want to share some thoughts on why we must stay alert and learn from China’s rapid execution.
 
@@ -48,5 +39,3 @@ The 2026 AI Index Report: [https://lnkd.in/gFQCQuV3](https://lnkd.in/gFQCQuV3?tr
  [The 2026 AI Index Report | Stanford HAI
 
  hai.stanford.edu](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fhai%2Estanford%2Eedu%2Fai-index%2F2026-ai-index-report&urlhash=BiI7&trk=public_post_feed-article-content)
-
-## Explore content categories
